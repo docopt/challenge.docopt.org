@@ -1,5 +1,5 @@
 
-### How many LOC will require you to implement CLI interface like that?
+### How many LOC will you require to implement a CLI interface like that?
 
     Naval Fate.
 
