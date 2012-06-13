@@ -8,24 +8,9 @@
 </head>
 <body>
     <h1>docopt</h1>
-    <script>
-        document.getElementsByTagName('h1')[0].className =
-        ['dashdash', 'ellipsis', 'brackets', 'angular', 'parens', 'upper', '']
-        [Math.floor(Math.random() * 7)];
-    </script>
+    <h2>Challenge</h2>
 
-    <h2>Command-line interface description language</h2>
-
-<p><code>docopt</code> helps you:</p>
-
-<ul>
-<li>define interface for your command-line app, and</li>
-<li>automatically generate parser for it.</li>
-</ul>
-
-<p><code>docopt</code> is based on conventions that are used for decades in help-messages and
-man-pages for program interface description.  Interface description
-in <code>docopt</code> <em>is</em> such a help-message, but formalized.  Here is an example:</p>
+    <h3>How many LOC will require you to implement CLI interface like that?</h3>
 
 <pre><code>Naval Fate.
 
@@ -318,7 +303,7 @@ lines are valid, however you are recommended to stick to a single style.</p>
 </code></pre>
 
 <p>If you want to set a default value for an option with an argument, put it
-into the option-description, in form <code>[default: &lt;my-default-value&gt;]</code>.</p>
+into the option-description, in form <code>[default: &lt;the-default-value&gt;]</code>.</p>
 
 <pre><code>--coefficient=K  The K coefficient [default: 2.95]
 --output=FILE    Output file [default: test.txt]
