@@ -34,7 +34,7 @@
 
 3. Describe how to run your code.
 
-3. Post solution to [TBA].
+3. Post solution to [Hacker News thread](http://news.ycombinator.com/item?id=4122547).
 
 4. Have fun!
 
