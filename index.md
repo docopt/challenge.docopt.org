@@ -40,7 +40,7 @@
 
 
 # docopt
-## Implementation
+## Solution
 ### [In Python](http://github.com/docopt/docopt)
 
     #! /usr/bin/env python
